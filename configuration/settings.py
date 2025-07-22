@@ -1,0 +1,7 @@
+WIN_SIZE = 640, 360
+FPS = 30
+SCALING = 3
+TITLE = "Rush Knight"
+BG_COLOR = "gray"
+
+MAP_SIZE = 48, 27
